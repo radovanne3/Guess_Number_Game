@@ -1,2 +1,2 @@
 # Guess_Number_Game
-Guess number game made with vanila JavaScript and DOM manipulation..
+ Guess number game created using vanila JavaScript and DOM manipulation.
